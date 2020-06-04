@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Jeesun Kim</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Expressive Speech</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Expressive speech: My research on expressive speech (ARC grants 2012-4; 2013-5) has employed innovative methods (e.g., “Disgust expressive speech: The acoustic consequences of the facial expression of emotion&amp;rdquo; - &lt;a href=&#34;https://doi.org/10.1016/j.specom.2017.12.007&#34;&gt;https://doi.org/10.1016/j.specom.2017.12.007&lt;/a&gt; Speech Communication 2018; “Recognizing prosody across modalities, face areas and speakers: Examining perceivers’ sensitivity to variable realizations of visual prosody” - &lt;a href=&#34;https://doi.org/10.1016/j.cognition.2011.11.013&#34;&gt;https://doi.org/10.1016/j.cognition.2011.11.013&lt;/a&gt; Cognition 2012 ) and developed a unique motion capture dataset (“Tracking eyebrows and head gestures associated with spoken prosody” - &lt;a href=&#34;https://doi.org/10.1016/j.specom.2013.06.003&#34;&gt;https://doi.org/10.1016/j.specom.2013.06.003&lt;/a&gt; Speech Communication 2014).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>International collaboration - Speech communication in older adults</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading Research</title>
+      <link>/project/internal-project_1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project_1/</guid>
+      <description>&lt;p&gt;Reading Research: My research on reading has reveaded how reading is influenced by both orthographic and phonological processing. For example, in &amp;ldquo;Orthographic–phonological links in the lexicon: When lexical and sublexical information conflict&amp;rdquo; - &lt;a href=&#34;https://doi.org/10.1023/B:READ.0000013805.77364.cd&#34;&gt;https://doi.org/10.1023/B:READ.0000013805.77364.cd&lt;/a&gt; I examined the level at which orthographic and phonological representations are linked. This work was extended by &amp;ldquo;Using Korean to investigate phonological priming effects without the influence of orthography&amp;rdquo; - &lt;a href=&#34;https://doi.org/10.1080/01690960143000281&#34;&gt;https://doi.org/10.1080/01690960143000281&lt;/a&gt; - with follow-up work making more use of two writing systems, e.g., in “Task effects in masked cross-script translation and phonological priming”, &lt;a href=&#34;https://doi.org/10.1016/S0749-596X(03)00093-7-&#34;&gt;https://doi.org/10.1016/S0749-596X(03)00093-7-&lt;/a&gt; Journal of Memory and Language, 2003. Research conducted on my National Academy of Education (NAE) Spencer Fellowship probed developmental reading disorders (e.g., “Characteristics of poor readers of Korean Hangul: Auditory, visual and phonological processing” - &lt;a href=&#34;https://doi.org/10.1023/B:READ.0000013804.76677.a9&#34;&gt;https://doi.org/10.1023/B:READ.0000013804.76677.a9&lt;/a&gt;  Reading and Writing, 2004. Leveraging cross-language comparisons, I sort to determine the role of script in picking out processing weaknesses (“The effect of script on poor readers&amp;rsquo; sensitivity to dynamic visual stimuli” - &lt;a href=&#34;https://doi.org/10.1016/j.bandl.2004.05.001&#34;&gt;https://doi.org/10.1016/j.bandl.2004.05.001&lt;/a&gt;  Brain and Language 2004; and have examined the staus of phones and tones “Are tones phones?” - &lt;a href=&#34;https://doi.org/10.1016/j.jecp.2010.07.008&#34;&gt;https://doi.org/10.1016/j.jecp.2010.07.008&lt;/a&gt;  Journal of Experimental Child Psychology, 2011.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
