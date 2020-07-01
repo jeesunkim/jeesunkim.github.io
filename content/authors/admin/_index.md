@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include multimodal communication, emotion poduction and perception, Life span and developmental change.
+bio: My research interests include multimodal communication, emotion production and perception, Life span and developmental change.
 education:
   courses:
   - course: PhD
@@ -52,5 +52,5 @@ user_groups:
 - Visitors
 ---
 
-Jeesun Kim is a research professor at The MARCS Institue, Western Sydney University. She conducts research on human communication, focusing on speech and reading. She uses methods from psychology, linguistics, speech engineering, and neuroscience to investigate both perception and production and its neurological underpinning. She employs a ‘whole of life’ approach that tracks how sensory, perceptual and cognitive skills change across the life-span.
+Jeesun Kim is a professor at The MARCS Institue, Western Sydney University. She conducts research on human communication, focusing on speech and reading. She uses methods from psychology, linguistics, speech engineering, and neuroscience to investigate both perception and production and its neurological underpinning. She employs a ‘whole of life’ approach that tracks how sensory, perceptual and cognitive skills change across the life-span.
 
