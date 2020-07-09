@@ -10,7 +10,7 @@ education:
   - course: Post-Doctoral Fellow
     institution: Yeugnam University (Korea)
     year: 1999
-  - course: Post‐doctoral Fellow (IREX)
+  - course: Post-doctoral Fellow (IREX)
     institution: The University of Melbourne
     year: 2000
   - course: Post‐doctoral Fellow (National Academy of Education - USA)
@@ -52,5 +52,5 @@ user_groups:
 - Visitors
 ---
 
-Jeesun Kim is a Professor at The MARCS Institue, Western Sydney University. She conducts research on human communication, focusing on speech and reading. She uses methods from psychology, linguistics, speech engineering, and neuroscience to investigate both perception and production and its neurological underpinning. She employs a ‘whole of life’ approach that tracks how sensory, perceptual and cognitive skills change across the life-span.
+Jeesun Kim is a research Professor at The MARCS Institue, Western Sydney University. She conducts research on human communication, focusing on speech and reading. She uses methods from psychology, linguistics, speech engineering, and neuroscience to investigate both perception and production and its neurological underpinning. She employs a ‘whole of life’ approach that tracks how sensory, perceptual and cognitive skills change across the life-span.
 
