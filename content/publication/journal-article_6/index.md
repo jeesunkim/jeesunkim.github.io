@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Speech Communication, 98*(68-72))'
+publication: '*Speech Communication, 98*(68-72)'
 publication_short: ""
 publication_types:
 - "2"

@@ -6,7 +6,7 @@ authors:
 - Chris Davis
 
 
-date: "2020-11-31T00:00:00Z"
+date: "2020-11-08T00:00:00Z"
 doi: "https://doi.org/10.1186/s12877-020-01909-w"
 featured: false
 image:
@@ -14,11 +14,11 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*BMC Geriatrics, 20*(1-14))'
+publication: '*BMC Geriatrics, 20*(1-14)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-11-31T00:00:00Z"
+publishDate: "2020-11-08T00:00:00Z"
 slides: 
 summary: Evidence from younger adults that engaging working memory reduces distraction; we found that older adults were able to engage working memory to reduce the processing of task-irrelevant sounds
 tags:
