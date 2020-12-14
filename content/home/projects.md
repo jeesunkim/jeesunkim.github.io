@@ -79,3 +79,8 @@ subtitle = ""
  css_class = ""
 +++
 
+[[feature]]
+  icon = "log-in"
+  icon_pack = "icon"
+  name = "log-in"
+  description = ""
