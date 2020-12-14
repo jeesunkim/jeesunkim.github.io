@@ -79,7 +79,7 @@ subtitle = ""
  css_class = ""
 +++
 
-[[feature]]
+[feature]
   icon = "log-in"
   icon_pack = "icon"
   name = "log-in"
