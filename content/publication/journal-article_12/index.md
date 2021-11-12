@@ -16,7 +16,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Second language Studies, 04*(353 - 374)'
+publication: '*Experimental Brain Research, 04*(353 - 374)'
 publication_short: ""
 publication_types:
 - "2"
