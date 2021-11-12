@@ -19,7 +19,7 @@ publication_types:
 - "2"
 publishDate: "2021-09-02T00:00:00Z"
 slides: 
-summary: We descibe how a masked speech translation priming experiment can be readily created, the final issue to address is what we might expect - will masked speech translation priming produce a different pattern of results to its visual counterpart?.
+summary: We describe how a masked speech translation priming experiment can be readily created; with this in hand, the  issue to address is what we might expect - will masked speech translation priming produce a different pattern of results to its visual counterpart?.
 tags:
 - Source Themes
 title: "Bilingual lexical representation: we have some words to say"
