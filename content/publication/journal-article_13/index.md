@@ -17,7 +17,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Speech, Language, and Hearing Research, 00*( - )'
+publication: '*Journal of Speech, Language, and Hearing Research, 00*(0-0)'
 publication_short: ""
 publication_types:
 - "2"
