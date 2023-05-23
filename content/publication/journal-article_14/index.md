@@ -6,7 +6,7 @@ authors:
 - admin
 
 
-date: "2022-30-11T00:00:00Z"
+date: "2022-11-30T00:00:00Z"
 doi: "https://doi.org/10.1371/journal.pone.0279822"
 featured: false
 image:
@@ -18,7 +18,7 @@ publication: '*PLOS ONE, 00*(0-0)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022-30-11T00:00:00Z"
+publishDate: "2022-11-30T00:00:00Z"
 slides: 
 summary: "As people age, their ability to recognize emotions from facial expressions or voices tends to decline. However, some studies have found that older adults benefit more from combined audio-visual presentations than younger adults, resulting in similar levels of emotion recognition. One limitation of these studies is that they used highly selected emotional expressions to be well categorised. Such stimuli may not be typical of real-life situations. To address this, our study examined if the audio-visual emotion recognition benefit extends to auditory and visual stimuli that were not so well categorised."
 tags:
