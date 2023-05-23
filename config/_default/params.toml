@@ -93,14 +93,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Bullecourt Avenue", city = "Milperra", region = "NSW", postcode = "2214", country = "Australia", country_code = "AUS"}
+address = {street = "Building U, Level 4, 160 Hawkesbury  Road", city = "Westmead", region = "NSW", postcode = "2145", country = "Australia", country_code = "AUS"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-33.939855", longitude = "150.990575"}
+coordinates = {latitude = "-33.806627", longitude = "150.987397"}
 
 # Directions for visitors to locate you.
-directions = "Go to the MARCS Director's Unit and ask for me"
+directions = "Go to level 4 and sign-in at the counter" 
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
