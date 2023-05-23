@@ -29,8 +29,8 @@ interests:
 - Cognitive changes in Ageing
 
 organizations:
-- name: The MARCS Institute
-  url: "https://www.westernsydney.edu.au/marcs/our_team/researchers/professor_jeesun_kim"
+- name: The MARCS Institute for Brain, Behaviour, and Development
+  url: "https://www.westernsydney.edu.au/marcs"
 role: Professor
 social:
 - icon: envelope
@@ -52,5 +52,5 @@ user_groups:
 - Visitors
 ---
 
-Jeesun Kim is a research Professor at The MARCS Institue, Western Sydney University. She conducts research on human communication, focusing on speech and reading. She uses methods from psychology, linguistics, speech engineering, and neuroscience to investigate both perception and production and its neurological underpinning. She employs a ‘whole of life’ approach that tracks how sensory, perceptual and cognitive skills change across the life-span.
+Jeesun Kim is a research Professor at The MARCS Institue for Brain, Behaviour, and Development at Western Sydney University. She conducts research on human communication, focusing on speech and reading. She uses methods from psychology, linguistics, speech engineering, and neuroscience to investigate both perception and production and its neurological underpinning. She employs a ‘whole of life’ approach that tracks how sensory, perceptual and cognitive skills change across the life-span.
 
